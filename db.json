@@ -1,0 +1,28 @@
+{
+  "production": [
+    {
+      "id": 1,
+      "sectionName": "Pré-Montagem Linha 1",
+      "workOrder": "WO875378",
+      "woHourStart": "08:29",
+      "planned": "280",
+      "produced": "210"
+    },
+    {
+      "id": 2,
+      "sectionName": "Pré-Montagem Linha 1",
+      "workOrder": "WO875378",
+      "woHourStart": "08:29",
+      "planned": "280",
+      "produced": "210"
+    },
+    {
+      "id": 3,
+      "sectionName": "Guiadores",
+      "workOrder": "WO843578",
+      "woHourStart": "08:29",
+      "planned": "300",
+      "produced": "107"
+    }
+  ]
+}
